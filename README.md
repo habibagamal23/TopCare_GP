@@ -1,7 +1,8 @@
 # TopCare_GP
-pneumonia detection and heart disease graduation project
+pneumonia detection  graduation project
 
 #Project Over View
+_________________________________________________________________________________________________________________________________________________________________________
 This app is designed to help users to receive healthcare services for pneumonia with ease . 
 From detection using chest X-Ray , order lab test , review results using Ai , 
 getting doctor appointments  , Unlimited articles , QA , 
